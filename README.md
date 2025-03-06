@@ -2,7 +2,7 @@
 
 ## Backend Setup
 
-1. Open the **Backend** folder in IntelliJ IDEA.
+1. Open the **Backend** folder in IntelliJ IDEA/STS/Eclipse.
 2. Locate the `application.properties` file.
 3. Update the following credentials:
    - **Database**: Set the database username and password. Create the database if needed.
